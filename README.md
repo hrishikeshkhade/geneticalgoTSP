@@ -1,6 +1,6 @@
 # geneticalgoTSP
 
-Initialize procedure GA{ \n
+Initialize procedure GA{ /n
     Set cooling parameter = 0;
     Evaluate population P(t);
     While( Not Done ){
